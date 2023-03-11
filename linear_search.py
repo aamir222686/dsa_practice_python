@@ -1,3 +1,8 @@
+"""
+worst case time complexity = O(n)
+worst case space complexity = O(n)
+"""
+
 def linear_search(list, target):
     """
     Return position of the item if true else returns None

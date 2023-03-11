@@ -1,3 +1,8 @@
+"""
+worst case time complexity = O(log n) => Time reduces by half every iteration
+worst case space complexity = O(n) => Space allocated only once
+"""
+
 def binary_search(list, target):
     first = 0; 
     last = len(list) - 1
